@@ -10,8 +10,6 @@
     <modules>
         <module>hmall-common</module>
         <module>hmall-api</module>
-        <module>hmall-db</module>
-        <module>hmall</module>
         <module>hmall-order</module>
         <module>hmall-user</module>
         <module>hmall-search</module>
