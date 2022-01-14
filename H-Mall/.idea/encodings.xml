@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hmall-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-db/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmall-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
